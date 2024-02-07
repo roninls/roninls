@@ -14,7 +14,7 @@
 
 ### Habilidades principais:
 <img align="center" alt="PHP" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <b>PHP</b>&nbsp;
-<img align="center" alt="Laravel" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /> <b>LARAVEL</b>&nbsp;
+<img align="center" alt="Laravel" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> <b>LARAVEL</b>&nbsp;
 <img align="center" alt="HTML" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <b>HTML</b>&nbsp;
 <img align="center" alt="CSS" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <b>CSS</b>&nbsp;
 <img align="center" alt="Javascript" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <b>JAVASCRIPT</b>&nbsp;
