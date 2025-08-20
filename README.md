@@ -22,7 +22,7 @@
 ### Outros conhecimentos:
 
 <img align="center" alt="GIT" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <b>GIT</b>&nbsp;
-<img align="center" alt="Docker" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <b>AngularJS</b>&nbsp;
+<img align="center" alt="Docker" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <b>Dcoker</b>&nbsp;
 <img align="center" alt="VueJS" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> <b>VueJS</b>&nbsp;
 
 ### Banco de Dados:
