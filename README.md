@@ -22,8 +22,7 @@
 ### Outros conhecimentos:
 
 <img align="center" alt="GIT" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <b>GIT</b>&nbsp;
-<img align="center" alt="AngularJS" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <b>AngularJS</b>&nbsp;
-<img align="center" alt="ReactJS" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <b>ReactJS</b>&nbsp;
+<img align="center" alt="Docker" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <b>AngularJS</b>&nbsp;
 <img align="center" alt="VueJS" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> <b>VueJS</b>&nbsp;
 
 ### Banco de Dados:
@@ -46,10 +45,10 @@
 <img align="center" alt="Node.js" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> <b>NODE.JS</b>&nbsp;
 <img align="center" alt="Next.js" height ="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <b>NEXT.JS</b>&nbsp;
 
-<div align="center">
+<!-- <div align="center">
 <br><p align="centre"><b>Contagem de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{roninls}/count.svg" /></p> 
 <br>
-</div>
+</div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
